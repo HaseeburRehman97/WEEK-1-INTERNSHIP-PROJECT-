@@ -12,9 +12,9 @@ Cybersecurity testing lab for the Networkwalks internship.
 - Snapshot taken: "Fresh Kali 10.0.0.2"
 
 ## Screenshots
-1. 01-nat-network.png - NAT Network 10.0.0.0/24
-2. 02-vm-network.png - Kali VM network adapter
-3. 03-features.png - Clipboard and drag/drop
-4. 04-shared-folders.png - Shared Downloads folder
-5. 05-ip-and-ping.png - IP 10.0.0.2/24 and ping test
-6. 06-snapshot.png - VM snapshot
+1. Nat Network.jpg - NAT Network 10.0.0.0/24
+2. Nat-Network working.jpg - Kali VM network adapter
+3. Clipboard and file drag_drop.jpg - Clipboard and drag/drop
+4. Download from host.jpg - Shared Downloads folder
+5. Ip and ping.jpg - IP 10.0.0.2/24 and ping test
+6. Snapshot.jpg - VM snapshot
